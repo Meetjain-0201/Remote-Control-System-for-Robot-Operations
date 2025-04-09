@@ -28,12 +28,11 @@
 
 ---
 
-## 🖼️ Drive System
+## 🖼️ Peristaltic Pumps Control
 
 <div align="center">
   <img src="media/science2.png" alt="Peristaltic Pumps Control" width="85%">
   <br>
-  <em>Detailed view of auger and drive systems</em>
 </div>
 
 ---
