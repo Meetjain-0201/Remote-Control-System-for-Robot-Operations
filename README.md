@@ -2,7 +2,7 @@
 ### *Precision Control for Robotic Operations*
 
 <div align="center">
-  <img src="assets/robot_main.jpg" alt="Main Robotic Unit" width="85%">
+  <img src="media/robot_main.jpg" alt="Main Robotic Unit" width="85%">
 </div>
 
 ## ✨ Key Features
@@ -28,10 +28,10 @@
 
 ---
 
-## 🖼️ System Overview
+## 🖼️ Drive System
 
 <div align="center">
-  <img src="assets/robot_detail.jpg" alt="Robotic Components" width="85%">
+  <img src="media/robot_detail.jpg" alt="Robotic Components" width="85%">
   <br>
   <em>Detailed view of auger and drive systems</em>
 </div>
@@ -88,4 +88,3 @@ pip install pygame
   🛠️ Contribute via PRs • 
   🐛 Report issues
 </div>
-```
