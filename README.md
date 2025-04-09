@@ -1,8 +1,8 @@
 # 🤖 Dual-Mode Robotic Control System  
-### *Precision Control for Robotic Operations*
+### *Auger System*
 
 <div align="center">
-  <img src="media/robot_main.jpg" alt="Main Robotic Unit" width="85%">
+  <img src="media/science1.png" alt="Main Robotic Unit" width="85%">
 </div>
 
 ## ✨ Key Features
@@ -31,7 +31,7 @@
 ## 🖼️ Drive System
 
 <div align="center">
-  <img src="media/robot_detail.jpg" alt="Robotic Components" width="85%">
+  <img src="media/science2.png" alt="Peristaltic Pumps Control" width="85%">
   <br>
   <em>Detailed view of auger and drive systems</em>
 </div>
