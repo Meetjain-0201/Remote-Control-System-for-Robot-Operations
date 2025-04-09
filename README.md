@@ -1,5 +1,5 @@
 # 🤖 Dual-Mode Robotic Control System  
-### *Auger System*
+## 🖼️ Auger System
 
 <div align="center">
   <img src="media/science1.png" alt="Main Robotic Unit" width="85%">
