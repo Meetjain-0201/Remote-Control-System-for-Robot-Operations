@@ -1,6 +1,3 @@
-Here's your beautifully enhanced README with exactly 2 image placeholders and minimal, tasteful styling:
-
-```markdown
 # 🤖 Dual-Mode Robotic Control System  
 ### *Precision Control for Robotic Operations*
 
